@@ -1,0 +1,216 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px auto 0px auto;
+  width: 901px;
+}
+
+header {
+border-bottom: solid 12px #c9c9c9;
+padding-bottom: 30px;
+
+}
+
+section {
+  display: inline-block;
+ position: relative;
+ margin-top: 45px;
+ width: 100%;
+}
+
+.headertext {
+  position: relative;
+  margin-left: 10px;
+  width: 650px;
+  margin-top: -5px;
+}
+
+#paragraph1 {
+  font-size: 25px;
+  font-family: cursive;
+  font-weight: bold;
+  color: #2b2d2d;
+}
+
+#paragraph2 {
+  font-size: 14px;
+  color: #999999;
+  padding-bottom: 0px;
+  margin-top: -7px;
+}
+
+#logo {
+  display: inline;
+  float: left;
+  padding-right: 10px;
+}
+
+#headerleft {
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#headerright {
+  display: inline-block;
+  float: right;
+  margin-top: 0px;
+}
+
+#chocolate {
+  position: relative;
+  margin-top: 20px;
+}
+
+#title {
+  font-family: impact;
+  color: #1e1e1e;
+  width: 50%;
+}
+
+#subtitle {
+  font-size: 10px;
+  color: #dbdddd;
+  width: 50%;
+}
+
+#printicon {
+  diplay: inline;
+  float: right;
+  margin-top: -20px;
+}
+
+#print {
+  display: inline;
+}
+
+#printtext {
+display: inline;
+font-size: 10px;
+color: #dbdddd;
+}
+
+#paragraph3 {
+  text-indent: 25px;
+  margin: 25px auto 25px auto;
+
+}
+
+#paragraph4{
+    text-indent: 25px;
+    margin: 25px auto 25px auto;
+}
+
+#paragraph5{
+    text-indent: 25px;
+    margin: 25px auto 25px auto;
+}
+
+#listimage {
+
+}
+
+#recipe {
+  position: relative;
+  width: 100%;
+}
+#firstlist {
+  position: absolute;
+width: 100%;
+top: 40px;
+list-style-type: none;
+font-family: sans-serif;
+color: #7e7f7f;
+line-height: 30px;
+margin-left: 70px;
+}
+
+#secondlist {
+  display: inline-block;
+position: absolute;
+width: 100%;
+top: 40px;
+float:right;
+padding-left: 500px;
+list-style-type: none;
+font-family: sans-serif;
+color: #7e7f7f;
+line-height: 30px;
+}
+
+#bio {
+  display: inline-block;
+  margin-top: 20px;
+  border-top: solid 12px #c9c9c9;
+  width:100%;
+  padding-top:20px;
+}
+
+#myface {
+  display: inline;
+  float: left;
+  padding-right: 10px;
+}
+
+.mybio1 {
+  position: relative;
+  margin-left: 10px;
+  width: 450px;
+  margin-top: 10px;
+}
+
+#mybutton {
+  position: relative;
+  display: inline;
+  margin-left: 800px;
+  width: 650px;
+  margin-top: -40px;
+  float:right;
+  background-color: #821111;
+  color: white;
+  border-style: none;
+}
+
+#mybutton:hover {
+  background-color:green;
+}
+
+#myname{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+#mybio {
+  font-size: 13px;
+  color: #999999;
+}
+
+footer {
+  position:relative;
+  margin-top: 80px;
+  text-align:center;
+  border-top: solid 1px #999999;
+  color: #999999;
+  font-size: 12px;
+  width:100%;
+}
+
+#footerlogo {
+text-align: center;
+display:block;
+position:absolute;
+top:-18px;
+margin-left: 433px;
+}
+
+#footerp{
+  margin-top: 50px;
+}
+
+span {
+  position:relative;
+}
